@@ -5,7 +5,7 @@ date:       2018-02-11 20:27:33 -0500
 permalink:  the_prequels_or_from_circus_to_coding
 ---
 
-*Hit the play button for some sounds to read by!*
+*Hit the play button for some sounds to read by and scroll on down!*
 <iframe width="100%" height="230" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/8200112&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 ## **From Circus to Coding**
