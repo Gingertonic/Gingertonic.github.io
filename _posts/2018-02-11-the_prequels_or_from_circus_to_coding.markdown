@@ -8,7 +8,7 @@ permalink:  the_prequels_or_from_circus_to_coding
 *Hit the play button for some sounds to read by!*
 <iframe width="100%" height="230" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/8200112&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-### From Circus to Coding
+## **From Circus to Coding**
 Hai der. Thanks for coming by. I'm Beth, nice to meet you. What's your name? 
 *(Actually you can scroll on down to the bottom to let me know in Important Scientific Research or follow [this mysterious link](https://goo.gl/forms/gbItbt8VlW7nPgpn2))*
 
@@ -78,11 +78,11 @@ And here I am. Cheers to that.
 
 *My partner and I on our terrace in Adelaide, South Australia where we study, work and relax*
 
-### What now?
+## **What now?**
 Now, with the help of Flatiron, I am focusing on learning how to learn how to code *(nope, no typos/repeats there)*. On a personal level, I'm doing it for the reasons I mentioned above. On a larger, more general level, I really believe that learning this skill is the best way to stay on top of the very swift progress which is happening around us. I don't want to be washed under, unable to control my movements as these waves of progress envelop us. I want to be up on the surface, riding the waves right as they are breaking, before even, knowing how to take and release control to make it the best ride possible.
 As I'm really no good at surfing ocean waves, coding and riding the metaphoricals is my best option here and it feels **so good** to be taking this into my own hands after years of wondering about it making little shuffling movements towards the edge, I've made it now and I'm ready to jump off and fly!
 
-### Closing, Upcoming and Opening words
+## **Closing, Upcoming and Opening words**
 Thanks for reading, if you would like to take part in some Important Scientific Research, it's just below!
 Look out for my upcoming posts including:
 
@@ -93,7 +93,7 @@ Look out for my upcoming posts including:
 *Get in the Flow* I'll be doing a series of short posts about my work flow too (with a hint of life flow in there perhaps). I imagine this will change a lot throughout my journey in code so it will be interesting to document how these changes happen!
 
 
-### Important Scientific Research
+### **Important Scientific Research**
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1NVdhVjEiaZov_vIThYRACNTQyhO_fA3g_v4JrcOorg3BDQ/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
