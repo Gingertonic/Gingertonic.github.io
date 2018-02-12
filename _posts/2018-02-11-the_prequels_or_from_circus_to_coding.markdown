@@ -23,11 +23,11 @@ After I wore my fancy (fake)-fur-lined cape and received my certificate in Playi
 **I came to realise three things** in those 2 years after graduation from RCM:
 1. I was technically very accomplished on my instruments *(okay I admit I also studied clarinet, flute and saxophone, not just recorder. But recorder was and still is my main ting*)
 2. I however lacked confidence and skills to actually express **me** in my playing I was happy to emulate other composers, players, teachers, but it was going to be a whole new thing to develop the self-confidence to be me. I'm still working on this.
-3. I really liked making that app and running show control for the Les Amis show
+3. I really liked making that app and running show control for the Les Amis show and wanted to know more.
 
 So I embarked on working on items 1 & 2 as I figured that was more acheiveable (ha!).
 
-I did this by nabbing a place in the inaugral cohort of students at [Berklee College of Music's graduate campus in Valencia, Spain](https://valencia.berklee.edu/). I was in the Contemporary Studio Performance class of 2015. It was amazing and I met musicians from all over the world all with different backgrounds to share. 
+I did this by nabbing a place in the inaugural cohort of students at [Berklee College of Music's graduate campus in Valencia, Spain](https://valencia.berklee.edu/). I was in the Contemporary Studio Performance class of 2015. It was amazing and I met musicians from all over the world all with different backgrounds to share. 
 
 *You can listen to some of the sounds I was making at Berklee by hitting the play button at the top of this page or by following [this link to my Soundcloud](https://soundcloud.com/beth-schofield/sets/portfolio-woodwinds) .*
 
@@ -39,7 +39,8 @@ A trio of sorts comprised of Ganvya (live), Ganavya (prerecorded samples) and li
 **She is not bound to the rules of the code, the code is waiting for her and responding to her.**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iMHbCSaY3UA?rel=0&amp;showinfo=0&amp;start=10" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-*'He Sees the Shore' vocals -Ganavya, composition and programming -Beth Michelle Schofield*
+*'He Sees the Shore' vocals -Ganavya*
+*composition, recorders and programming -Beth Michelle Schofield (that's me!)*
 
 
 *"Alright,"* I hear you say, *"so you understand some logic, but isn't Max just dragging boxes around?"*
@@ -54,7 +55,7 @@ But hey, look! We have this awesome thing called the web and super integrated wa
 Some questions I've started ruminated on recently as I've been working through the Flatiron prep materialL 
 * **what would an online AV installation look like?**
 * **what would the code look like if I remade** *(ooo refactored, I just learned that word, I'mma use it now)* ***He sees the Shore* in a way that Ganavya could just load up a web page and perform it literally online?**
-* **is this medium of code what I've been looking to actually bring my ideas to life?**
+* **is this medium of code what I've been looking for to actually bring my ideas to life?**
 
 And my answers as of right now:
 * Good question Beth, you should get on that and find out
@@ -65,6 +66,7 @@ And my answers as of right now:
 After Berklee I went and did my stint as a broke studio intern in NYC. It was pretty great and I was very upset when my visa was up but after I was gently kicked out of the USA, I quickly took a job as Head Tech for a live AV company which was scary and I wasn't really qualified to do it but I was given qute a nice apartment by the beach on Crete, Greece and then Tenerife in the Canarias so it all evened out in the end. I learned loads, including that I never want to be in a middle-management position again.
 
 I surivived to the end of that contract but politely declined their next offer and instead ran back to the circus, this time spending 2 years in Denmark, France, Belgium and the Netherlands. I loved almost every minute of it (I do not function in the cold so winter was less fun living in my van.) 
+
 *Speaking of my van, here she is. Her name is Nana:*
 
 ![](https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/14570362_10154616326701252_4175797184579751945_n.jpg?oh=07216ae63928c3dc3dfead788be1e6be&oe=5B0C3B88)
