@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "The Prequels (or, "from Circus to Coding")"
-date:       2018-02-12 01:27:32 +0000
+title:      "The Prequels -or- from Circus to Coding"
+date:       2018-02-11 20:27:33 -0500
 permalink:  the_prequels_or_from_circus_to_coding
 ---
 
