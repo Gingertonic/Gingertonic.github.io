@@ -95,7 +95,7 @@ Look out for my upcoming posts including:
 
 ### Important Scientific Research
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1NVdhVjEiaZov_vIThYRACNTQyhO_fA3g_v4JrcOorg3BDQ/viewform?embedded=true" width="750" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1NVdhVjEiaZov_vIThYRACNTQyhO_fA3g_v4JrcOorg3BDQ/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 
