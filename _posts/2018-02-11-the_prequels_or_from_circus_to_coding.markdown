@@ -88,7 +88,7 @@ As I'm really no good at surfing ocean waves, coding and riding the metaphorical
 Thanks for reading, if you would like to take part in some Important Scientific Research, it's just below!
 Look out for my upcoming posts including:
 
-*Episode 4: A New Fork ("Who you calling 'Git'?)*
+*Episode 4: A New Fork ("Who you calling 'Git'?")*
 
 *Coders in the Wild*: I went the launch event of Code Like A Girl in Adelaide where there were some interesting speakers, I'll be sharing some of their thoughts with you here.
 
