@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Episode 4 A New Fork - Who you calling Git?"
-date:       2018-02-17 08:14:58 +0000
+date:       2018-02-17 03:14:58 -0500
 permalink:  episode_4_a_new_fork_-_who_you_calling_git
 ---
 
@@ -13,7 +13,7 @@ This is Episode 4: A New Fork, my 2nd blog post. And you thought the Star Wars c
 The land of Code has it's own particular dialect of the English language with plenty of words and phrases that I hadn't come across before, or at least not in the way they're used in my new method of communication.
 Let's have a brief extract from my never-to-be-published tome:
 
-### The Programmer > Non-Programmer English Dictionary *[an extract]*:
+##### The Programmer > Non-Programmer English Dictionary *[an extract]*:
 ***=***  `=` is an "assignment operator" which gives meaning to otherwise random words that the computer doesn't yet know. We can teach it the meaning of new words eg: `gingertonic = "total genius!"`. Now everytime I type in `gingertonic` and hit enter, it will respond with "total genius!" which is a demonstration that computers will believe anything if it's wrapped in quotation marks (`" "`)
 
 ***==*** 
