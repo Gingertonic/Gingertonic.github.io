@@ -109,7 +109,7 @@ Also in the past year I've really taken a step back to look at my wellbeing both
 Bonus: I got on a bicycle for the first time in... a while... yesterday and I'm a very nervous, pretty rubbish cyclist but have a goal of being able to safely cycle into the city by the end of March. I'll keep us all posted... My bike is awesome though. I picked it up for $30 Australian and it's an ex-Australia Post bike. I love it.
 <br>
 <br>
-<img src="https://i.imgur.com/3doeaJv.jpg" alt="Postie Pat front" style="width: 50%;"/><img src="https://i.imgur.com/hQTae0m.jpg" alt="Postie Pat side" style="width: 50%;"/>
+<img src="https://i.imgur.com/nt5XaNA.png" alt="Postie Pat" style="width: 100%;"/>
 <br>
 <br>
 
