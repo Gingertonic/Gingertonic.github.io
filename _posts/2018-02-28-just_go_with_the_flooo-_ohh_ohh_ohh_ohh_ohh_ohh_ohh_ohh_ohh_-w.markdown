@@ -1,17 +1,13 @@
 ---
 layout: post
 title:      "Just go with the flooo-(ohh ohh ohh ohh ohh ohh ohh ohh ohh...)-w"
-date:       2018-03-01 04:13:00 +0000
+date:       2018-02-28 23:13:01 -0500
 permalink:  just_go_with_the_flooo-_ohh_ohh_ohh_ohh_ohh_ohh_ohh_ohh_ohh_-w
 ---
 
 
 First off, if you got the *Finding Nemo: The Musical* reference in the title, 10 points to Gryffindor!
 <br>
-<br>
-<br>
-
-
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BfhSgoxF9pl/" data-instgrm-version="8" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BfhSgoxF9pl/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">This is what remote study looks like. 😍 2hrs of study groups and lectures coming up right here on the back terrace, Adelaide. #remotestudy #remoteworking #flatiron #wework #learn #MacBookPro #chromebook #Programming #softwaredevelopment #ruby #html #css #javascript #rails #sinatra #react #redux #webdevelopment #ohmy #hummus #cucumber #Australia #workingholiday #digitalnomad #coding</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/thegingertonicstudios/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Beth Michelle</a> (@thegingertonicstudios) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-02-23T01:06:09+00:00">Feb 22, 2018 at 5:06pm PST</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
 
 
@@ -130,7 +126,7 @@ Bonus: I got on a bicycle for the first time in... a while... yesterday and I'm 
 <br>
 <br>
 <br>
-<img src="https://i.imgur.com/3doeaJv.jpg" alt="Postie Pat front" style="width: 49%;"/>    <img src="https://i.imgur.com/hQTae0m.jpg" alt="Postie Pat side" style="width: 49%;"/>
+<img src="https://i.imgur.com/3doeaJv.jpg" alt="Postie Pat front" style="width: 48%;"/> <img src="https://i.imgur.com/hQTae0m.jpg" alt="Postie Pat side" style="width: 48%;"/>
 <br>
 <br>
 <br>
