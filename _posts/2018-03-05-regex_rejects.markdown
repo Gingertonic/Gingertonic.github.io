@@ -95,7 +95,7 @@ But think it's time for another dictionary. Have a quick study of the following 
 	<td>1</td> <td><code>[rht]</code> </td>  <td>any r,  h or t characters </td> 
   </tr>
   <tr>
-    <td>2</td> <td><code>[dlp]</code>  </td>  <td>any characters except d, l, or p </td> 
+    <td>2</td> <td><code>[^dlp]</code>  </td>  <td>any characters except d, l, or p </td> 
   </tr>
 	  <tr>
     <td>3</td> <td><code>[a-z]</code> </td>  <td>any lower case character within the range of a to z </td> 
