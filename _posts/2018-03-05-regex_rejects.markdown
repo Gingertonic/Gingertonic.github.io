@@ -5,6 +5,24 @@ date:       2018-03-05 10:43:40 -0500
 permalink:  regex_rejects
 ---
 
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
 <img src="https://i.imgur.com/WjmTL3b.png" alt="RegEx Rejects" style="width: 100%;"/>
 
 ### Is that really pronounced... *'rejects'*?
