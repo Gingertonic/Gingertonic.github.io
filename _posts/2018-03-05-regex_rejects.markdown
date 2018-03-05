@@ -63,35 +63,96 @@ But think it's time for another dictionary. Have a quick study of the following 
 
 ## A (Very) Abridged Regex-English Dictionary
 
-| # |   **Regex**   |   **English**   | 
-| --- | -------- | -------- |
-| 1 | `[rht]` | any r,  h or t characters | 
-| 2 | `[dlp]` | any characters except d, l, or p |
-| 3 | `[a-z]` | any lower case character within the range of a to z |
-| 4 | `[F-R]` | any upper case character within the range of F to R |
-| 5 | `[R-Tf-z]` | any upper case character within the range of R to T and any lower case character within the range of f to z |
-| 6 | `^` | start of line |
-| 7 | `$`| end of line |
-| 8 | `\A` | start of string |
-| 9 | `\z` | end of string |
-| 10 | `.` | any single chracter |
-| 11 | `\` | 'escape' - used eg if looking for a literal version of a special character in Regex eg `\.` finds only any period |
-| 12 | `\s` | any whitespace character |
-| 13 | `\S` | any non-whitespace character |
-| 14 | `\d` | any digit |
-| 15 | `\D` | any non-digit |
-| 16 | `\w` | any word character |
-| 17 | `\W` | any non-word character |
-| 18 | `\b` | any word boundary |
-| 19 | `a?` | zero or 1 of a |
-| 20 | `t*` | zero or more of t |
-| 21 | `s+` | one or more of s |
-| 22 | `(tea ){3}` | exactly 3 "tea "s |
-| 23 | `b{4,}` | 4 of more "b"s|
-| 24 | `h{7,9}` | between 7 and 9 "h"s |
-| # |   **Modifiers**   |     | 
-| 25 | `/i` | case insensitive |
-| 26 | `/x` | ignore whitespace in the expression |
+<table>
+  <tr>
+    <th>#</th>
+    <th>Regex</th>
+    <th>English</th>
+  </tr>
+  <tr>
+    <td>1</td> <td>`[rht]` </td>  <td>any r,  h or t characters </td> 
+  </tr>
+  <tr>
+    <td>2</td> <td>`[dlp]`  </td>  <td>any characters except d, l, or p </td> 
+  </tr>
+	  <tr>
+    <td>3</td> <td>`[a-z]`  </td>  <td>any lower case character within the range of a to z </td> 
+  </tr>
+	  <tr>
+    <td>4</td> <td>`[F-R]`</td>  <td>any upper case character within the range of F to R </td> 
+  </tr>
+	  <tr>
+    <td>5</td> <td>`[R-Tf-z]`  </td>  <td>any upper case character within the range of R to T and any lower case character within the range of f to z </td> 
+  </tr>
+	  <tr>
+    <td>6</td> <td>`^` </td>  <td>start of line </td> 
+  </tr>
+	  <tr>
+    <td>7</td> <td>`$` </td>  <td>end of line </td> 
+  </tr>
+	  <tr>
+    <td>8</td> <td>`\A`  </td>  <td>start of string </td> 
+  </tr>
+	  <tr>
+    <td>9</td> <td>`\z`  </td>  <td>end of string </td> 
+  </tr>
+	  <tr>
+    <td>10</td> <td>`.`  </td>  <td>any single character </td> 
+  </tr>
+		  <tr>
+    <td>11</td> <td>`\` </td>  <td>'escape' - used eg if looking for a literal version of a special character in Regex eg `\.` finds only any period </td> 
+  </tr>
+		  <tr>
+    <td>12</td> <td>`\s` </td>  <td>any whitespace character</td> 
+  </tr>
+		  <tr>
+    <td>13</td> <td>`\S` </td>  <td>any non-whitespace character</td> 
+  </tr>
+		  <tr>
+    <td>14</td> <td>`\d` </td>  <td>any digit </td> 
+  </tr>
+		  <tr>
+    <td>15</td> <td>`\D` </td>  <td>any non-digit</td> 
+  </tr>
+	  <tr>
+    <td>16</td> <td>`\w` </td>  <td>any word character</td> 
+  </tr>
+	  <tr>
+    <td>17</td> <td>`\W` </td>  <td>any non-word character</td> 
+  </tr>
+	  <tr>
+    <td>18</td> <td>`\b` </td>  <td>any word boundary</td> 
+  </tr>
+	  <tr>
+    <td>19</td> <td>`a?` </td>  <td>zero or 1 of "a"</td> 
+  </tr>
+	  <tr>
+    <td>20</td> <td>`t*`  </td>  <td>zero or more of "t"</td> 
+  </tr>
+	 <tr>
+    <td>21</td> <td>`s+`  </td>  <td>one or more of "s"</td> 
+  </tr>
+	 <tr>
+    <td>22</td> <td>`(tea ){3}`  </td>  <td>exactly 3 "tea "s </td> 
+  </tr>
+	 <tr>
+    <td>23</td> <td>b{4,}` </td>  <td>4 of more "b"s</td> 
+  </tr>
+	 <tr>
+    <td>24</td> <td>`h{7,9}`</td>  <td>between 7 and 9 "h"s</td> 
+  </tr>
+	 <tr>
+    <td>**Modifiers**</td> <td>`t*`  </td>  <td></td> 
+  </tr>
+	 <tr>
+    <td>25</td> <td>`/i`  </td>  <td>case insensitive</td> 
+  </tr>
+	 <tr>
+    <td>26</td> <td>`/x`  </td>  <td>ignore whitespace in the expression</td> 
+  </tr>
+  
+</table>
+
 **Bonus**
 * 27: **RegEx:** `tea|coffee` **English:** tea or coffee
 
