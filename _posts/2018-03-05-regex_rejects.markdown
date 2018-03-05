@@ -5,6 +5,9 @@ date:       2018-03-05 10:43:40 -0500
 permalink:  regex_rejects
 ---
 
+
+<img src="https://i.imgur.com/WjmTL3b.png" alt="RegEx Rejects" style="width: 100%;"/>
+
 <style>
 table {
     border-collapse: collapse;
@@ -22,7 +25,6 @@ tr:nth-child(even) {
 }
 </style>
 
-<img src="https://i.imgur.com/WjmTL3b.png" alt="RegEx Rejects" style="width: 100%;"/>
 
 ### Is that really pronounced... *'rejects'*?
 
@@ -177,15 +179,14 @@ But think it's time for another dictionary. Have a quick study of the following 
   
 </table>
 
-**Bonus**
-* 27: **RegEx:** `tea|coffee` **English:** tea or coffee
 
 
 
 
 ### Nice studying! 
 **Let's go back to those examples and see if we can understand them any better now...**
-##### one
+<br><br>
+**one**
 ```
 /\A[aeiou]/i
 ```
@@ -193,8 +194,7 @@ Okay so from the dictionary above, we're using elements  8, 1 and 25.
 This would find any string which start with a vowel. Becasue we added the `/i` modifer, it doesn't matter if it's a lower or upper case vowel. Although at the start of the string we might expect it to be upper case, we're covered for any lazy typers!
 <br><br><br>
 
-
-##### two
+**two**
 ```
 /\bun\w*ing\b/
 ```
@@ -204,14 +204,14 @@ So we're looking through a string to find any parts which have: a word boundary 
 *Note:* `\w` *- word characters - include any letter, number or underscore so this expression would also pick up somthing like 'un4giving'. To avoid this and pick up only letters, we could change the expression to* `/\bun[a-z]*ing\b/`
 <br><br><br>
 
-##### three
+**three**
 ```
 \b\w{5}\b/i
 ```
 Here we are using 18, 16, 23 and our fave 18 again with the modifier 25 for spice. We're looking for any 5 letter word. The modifier means it doesn't matter if the word is uppercase, lowercase or a mix.
 <br><br><br>
 
-##### four
+**four**
 ```
 /^[A-Z].+[\.|\!|\?]\z/
 ```
@@ -219,7 +219,7 @@ Another mindscrewer, here we're using a combo of 6, 4, 10, 21, 11, 27 and 9. Whh
 It will pick up a string that starts with a capital letter and ends in either a period, an exclamation mark or a question mark.
 <br><br><br>
 
-##### five
+**five**
 ```
 /^\D*(\d\D*){10}$/
 ```
@@ -233,7 +233,7 @@ Here's a phone number checker! It's basic and limited to find a 10-digit phone n
 It uses 6, 15, 14, 15, 20, 22 and 7.
 <br><br><br>
 
-##### six
+ **six**
 ```
 /\b[(\!)(\?)(\.)]+/
 ```
