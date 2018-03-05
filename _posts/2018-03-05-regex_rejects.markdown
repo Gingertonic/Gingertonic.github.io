@@ -90,83 +90,90 @@ But think it's time for another dictionary. Have a quick study of the following 
 	<td>1</td> <td><code>[rht]</code> </td>  <td>any r,  h or t characters </td> 
   </tr>
   <tr>
-    <td>2</td> <td>`[dlp]`  </td>  <td>any characters except d, l, or p </td> 
+    <td>2</td> <td><code>[dlp]</code>  </td>  <td>any characters except d, l, or p </td> 
   </tr>
 	  <tr>
-    <td>3</td> <td>`[a-z]`  </td>  <td>any lower case character within the range of a to z </td> 
+    <td>3</td> <td><code>[a-z]</code> </td>  <td>any lower case character within the range of a to z </td> 
   </tr>
 	  <tr>
-    <td>4</td> <td>`[F-R]`</td>  <td>any upper case character within the range of F to R </td> 
+    <td>4</td> <td><code>[F-R]</code></td>  <td>any upper case character within the range of F to R </td> 
   </tr>
 	  <tr>
-    <td>5</td> <td>`[R-Tf-z]`  </td>  <td>any upper case character within the range of R to T and any lower case character within the range of f to z </td> 
+    <td>5</td> <td><code>[R-Tf-z]</code>  </td>  <td>any upper case character within the range of R to T and any lower case character within the range of f to z </td> 
   </tr>
 	  <tr>
-    <td>6</td> <td>`^` </td>  <td>start of line </td> 
+    <td>6</td> <td><code>^</code></td>  <td>start of line </td> 
   </tr>
 	  <tr>
-    <td>7</td> <td>`$` </td>  <td>end of line </td> 
+    <td>7</td> <td><code>$</code> </td>  <td>end of line </td> 
   </tr>
 	  <tr>
-    <td>8</td> <td>`\A`  </td>  <td>start of string </td> 
+    <td>8</td> <td><code>\A</code> </td>  <td>start of string </td> 
   </tr>
 	  <tr>
-    <td>9</td> <td>`\z`  </td>  <td>end of string </td> 
+    <td>9</td> <td><code>\z</code>  </td>  <td>end of string </td> 
   </tr>
 	  <tr>
-    <td>10</td> <td>`.`  </td>  <td>any single character </td> 
+    <td>10</td> <td><code>.</code>  </td>  <td>any single character </td> 
   </tr>
 		  <tr>
-    <td>11</td> <td>`\` </td>  <td>'escape' - used eg if looking for a literal version of a special character in Regex eg `\.` finds only any period </td> 
+    <td>11</td> <td><code>\</code> </td>  <td>'escape' - used eg if looking for a literal version of a special character in Regex eg <code>\.</code> finds only any period </td> 
   </tr>
 		  <tr>
-    <td>12</td> <td>`\s` </td>  <td>any whitespace character</td> 
+    <td>12</td> <td><code>\s</code></td>  <td>any whitespace character</td> 
   </tr>
 		  <tr>
-    <td>13</td> <td>`\S` </td>  <td>any non-whitespace character</td> 
+    <td>13</td> <td><code>\S</code></td>  <td>any non-whitespace character</td> 
   </tr>
 		  <tr>
-    <td>14</td> <td>`\d` </td>  <td>any digit </td> 
+    <td>14</td> <td><code>\d</code></td>  <td>any digit </td> 
   </tr>
 		  <tr>
-    <td>15</td> <td>`\D` </td>  <td>any non-digit</td> 
+    <td>15</td> <td><code>\D</code> </td>  <td>any non-digit</td> 
   </tr>
 	  <tr>
-    <td>16</td> <td>`\w` </td>  <td>any word character</td> 
+    <td>16</td> <td><code>\w</code> </td>  <td>any word character</td> 
   </tr>
 	  <tr>
-    <td>17</td> <td>`\W` </td>  <td>any non-word character</td> 
+    <td>17</td> <td><code>\W</code> </td>  <td>any non-word character</td> 
   </tr>
 	  <tr>
-    <td>18</td> <td>`\b` </td>  <td>any word boundary</td> 
+    <td>18</td> <td><code>\b</code> </td>  <td>any word boundary</td> 
   </tr>
 	  <tr>
-    <td>19</td> <td>`a?` </td>  <td>zero or 1 of "a"</td> 
+    <td>19</td> <td><code>a?</code></td>  <td>zero or 1 of "a"</td> 
   </tr>
 	  <tr>
-    <td>20</td> <td>`t*`  </td>  <td>zero or more of "t"</td> 
+    <td>20</td> <td><code>t*</code> </td>  <td>zero or more of "t"</td> 
   </tr>
 	 <tr>
-    <td>21</td> <td>`s+`  </td>  <td>one or more of "s"</td> 
+    <td>21</td> <td><code>s+</code> </td>  <td>one or more of "s"</td> 
   </tr>
 	 <tr>
-    <td>22</td> <td>`(tea ){3}`  </td>  <td>exactly 3 "tea "s </td> 
+    <td>22</td> <td><code>(tea ){3}</code> </td>  <td>exactly 3 "tea "s </td> 
   </tr>
 	 <tr>
-    <td>23</td> <td>b{4,}` </td>  <td>4 of more "b"s</td> 
+    <td>23</td> <td><code>b{4,}</code> </td>  <td>4 of more "b"s</td> 
   </tr>
 	 <tr>
-    <td>24</td> <td>`h{7,9}`</td>  <td>between 7 and 9 "h"s</td> 
+    <td>24</td> <td><code>h{7,9}</code></td>  <td>between 7 and 9 "h"s</td> 
   </tr>
 	 <tr>
 	 <th>Modifiers</th> 
   </tr>
 	 <tr>
-    <td>25</td> <td>`/i`  </td>  <td>case insensitive</td> 
+    <td>25</td> <td><code>/i</code> </td>  <td>case insensitive</td> 
   </tr>
 	 <tr>
-    <td>26</td> <td>`/x`  </td>  <td>ignore whitespace in the expression</td> 
+    <td>26</td> <td><code>/x</code>  </td>  <td>ignore whitespace in the expression</td> 
   </tr>
+ <tr>
+	 <th>Bonus addition</th> 
+  </tr>
+	 <tr>
+    <td>27</td> <td><code>tea|coffee</code></td>  <td>tea or coffee</td> 
+  </tr>
+
   
 </table>
 
