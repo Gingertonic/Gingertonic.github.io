@@ -74,7 +74,7 @@ You know what, I've tried to find out and it's pretty confusing. For now, here's
 
 ### We ain't in type-what-you-mean-Ruby-land anymore, Dorothy.
 Or are we?
-You do, actually type what you mean, we just use a shorthand. I think of it like the time I tried to learn the kind of [shorthand] that is used by journalists and court room note-takers.
+You do, actually type what you mean, we just use a shorthand. I think of it like the time I tried to learn stenography, the kind of [shorthand](http://www.alysion.org/handy/althandwriting.htm) that is used by journalists and court room note-takers.
 
 You might see this : `/\b[(\!)(\?)(\.)]+/` and think it's incomprehensible.
 
