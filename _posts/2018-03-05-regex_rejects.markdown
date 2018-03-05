@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Regex Rejects"
-date:       2018-03-05 15:43:39 +0000
+date:       2018-03-05 10:43:40 -0500
 permalink:  regex_rejects
 ---
 
@@ -11,7 +11,7 @@ permalink:  regex_rejects
 
 No, not generally. But I pronounce it that way and think it's very apt since it rejects anything that doesn't match what we ask it for.
 More commonly it's pronounced 'Reg-Ex' with a hard 'g' for reasons which will become clear if not already so.
-<br>*I also say 'Fres-nels', not 'fre-nelle'. (If you're not a lighting tech ignore that). 
+<br>*I also say 'Frez-nels', not 'fre-nelle'. (If you're not a lighting tech ignore that). 
 <br>I like to see people's faces after saying both these things.*
 
 
