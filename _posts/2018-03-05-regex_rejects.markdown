@@ -262,7 +262,7 @@ Here's the test:<br>
 	```
 
 ...so I cobbled together some Regex to pass to the `.split` method and ended up with this rather nice thing:<br>
-```self.split(/\b[(\!)(\?)(\.)]+/).length```
+`self.split(/\b[(\!)(\?)(\.)]+/).length`
 
 <br>
 <br>
