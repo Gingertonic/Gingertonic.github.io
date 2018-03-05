@@ -5,7 +5,7 @@ date:       2018-03-05 10:43:40 -0500
 permalink:  regex_rejects
 ---
 
-<img src="https://i.imgur.com/WjmTL3b.png" style="width=100%">
+<img src="https://i.imgur.com/WjmTL3b.png" alt="RegEx Rejects" style="width: 100%;"/>
 
 ### Is that really pronounced... *'rejects'*?
 
@@ -185,7 +185,8 @@ so I pulled out some Regex to pass to the `.split` method and ended up with this
 `/(latte|cortado|cappuccino|chai) with (oat|almond) milk/i`
 
 <br>
-<img src="https://static.pexels.com/photos/158557/coffee-cup-and-saucer-black-coffee-tea-spoon-158557.png" style="width=100%">
+
+<img src="https://static.pexels.com/photos/158557/coffee-cup-and-saucer-black-coffee-tea-spoon-158557.png" alt="Coffee time" style="width: 100%;"/>
 
 
 
