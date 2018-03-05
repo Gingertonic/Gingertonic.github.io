@@ -87,7 +87,7 @@ But think it's time for another dictionary. Have a quick study of the following 
     <th>English</th>
   </tr>
   <tr>
-    <td>1</td> <td>`[rht]` </td>  <td>any r,  h or t characters </td> 
+	<td>1</td> <td><code>[rht]</code> </td>  <td>any r,  h or t characters </td> 
   </tr>
   <tr>
     <td>2</td> <td>`[dlp]`  </td>  <td>any characters except d, l, or p </td> 
@@ -159,7 +159,7 @@ But think it's time for another dictionary. Have a quick study of the following 
     <td>24</td> <td>`h{7,9}`</td>  <td>between 7 and 9 "h"s</td> 
   </tr>
 	 <tr>
-	 <td><b>Modifiers</b></td> <td>`t*`  </td>  <td></td> 
+	 <th>Modifiers</th> <td>`t*`  </td>  <td></td> 
   </tr>
 	 <tr>
     <td>25</td> <td>`/i`  </td>  <td>case insensitive</td> 
