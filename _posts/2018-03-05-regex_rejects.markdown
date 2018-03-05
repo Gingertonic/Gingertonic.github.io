@@ -159,7 +159,7 @@ But think it's time for another dictionary. Have a quick study of the following 
     <td>24</td> <td>`h{7,9}`</td>  <td>between 7 and 9 "h"s</td> 
   </tr>
 	 <tr>
-    <td>**Modifiers**</td> <td>`t*`  </td>  <td></td> 
+	 <td><b>Modifiers</b></td> <td>`t*`  </td>  <td></td> 
   </tr>
 	 <tr>
     <td>25</td> <td>`/i`  </td>  <td>case insensitive</td> 
