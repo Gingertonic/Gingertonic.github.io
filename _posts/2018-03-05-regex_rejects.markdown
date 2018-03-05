@@ -61,13 +61,16 @@ So let's see what some of these 'regular' expressions look like:
 
 
 
-**Er... that sure doesn't look like anything I'd call 'regular'... **
+***Er... that sure doesn't look like anything I'd call 'regular'... ***
 <br>
 #### **Why the name then?** <br>
 You know what, I've tried to find out and it's pretty confusing. For now, here's a Wiki quote...
 > A regular expression, regex or regexp (sometimes called a rational expression) is, in theoretical computer science and formal language theory, a sequence of characters that define a search pattern. Usually this pattern is then used by string searching algorithms for "find" or "find and replace" operations on strings.
 
 >The concept arose in the 1950s when the American mathematician Stephen Cole Kleene formalized the description of a regular language.
+
+<br>
+<br>
 
 ### We ain't in type-what-you-mean-Ruby-land anymore, Dorothy.
 Or are we?
@@ -184,7 +187,7 @@ But think it's time for another dictionary. Have a quick study of the following 
 
 
 ### Nice studying! 
-**Let's go back to those examples and see if we can understand them any better now...**
+Let's go back to those examples and see if we can understand them any better now...
 <br><br>
 **one**
 ```
@@ -238,7 +241,8 @@ It uses 6, 15, 14, 15, 20, 22 and 7.
 /\b[(\!)(\?)(\.)]+/
 ```
 This final one I just pulled out in a unrelated lab which was exciting because I was actually able to find a use for it 'in the wild'. The test called for a method which would count how many individual sentences there are in a string.
-Here's the test:
+Here's the test:<br>
+
 ```
   describe "#count_sentences" do
 
@@ -257,13 +261,17 @@ Here's the test:
   end
 	```
 
-so I pulled out some Regex to pass to the `.split` method and ended up with this rather nice thing:<br>
+...so I cobbled together some Regex to pass to the `.split` method and ended up with this rather nice thing:<br>
 ```self.split(/\b[(\!)(\?)(\.)]+/).length```
 
-## Further resources
+<br>
+<br>
+### Further resources
 * [Rubular](http://rubular.com/) *Test your RegEx for use in Ruby here!*
 * [Regexr](https://regexr.com/) *You can test here too **and** it amazingly shows you what each element is doing! Designed for RegEx in JS but an excellent playground for general RegEx exploration.*
 * [Rex Egg](http://www.rexegg.com/) *Special mention as it features dinosaurs*
+<br>
+<br>
 
 # Now you're ready to explore Regex-land 
 **And now you can order a coffee in the local language!**<br>
