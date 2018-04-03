@@ -157,10 +157,11 @@ The url I was passing to [nokogiri](http://) via [open-uri](http://) was being r
 `program = Nokogiri::HTML(open(url, :allow_redirections => :all))`
 and suddenly everything was good again.
 
-<iframe width="560" height="315" align="right" src="https://www.youtube.com/embed/QHVPQejfOX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Posterity
 - I documented most of the process using [Silverback](https://silverbackapp.com/) screen and webcam capture software. My face when I finally successfully published, downloaded and ran my own gem is fairly self-explanatory *(see Exhibit A, right)*
+
+<iframe width="100%" align="right" src="https://www.youtube.com/embed/QHVPQejfOX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br><br><br>
 
 - *(I also managed to capture a few good 'I give up' faceplants onto my bed during the process which I will refrain from sharing.) *
