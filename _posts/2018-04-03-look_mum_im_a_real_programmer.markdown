@@ -95,7 +95,7 @@ if input.to_i.between?(1,category.articles.length)
     else
       say_what
     end
-	```
+```
 
 
 *I replaced it with... *
@@ -108,7 +108,7 @@ if input.to_i.between?(1,category.articles.length)
     else
       if_not_that_then_this(input)
     end
-	```
+```
 	
 *and then I added this method:*
 	
@@ -120,7 +120,7 @@ def if_not_that_then_this(input)
       say_what
     end
   end
-	```
+```
 	
 It doesn't look like much of a change but I had written out the code in `if_not_that_then_this` 4 separate times in total. Wrapping it into it's own method does look a lot neater.
 	
@@ -144,16 +144,19 @@ Even though I know that in the foreseeable future, that 1,2 parameter is very un
 ## New directions (and dependencies)
 I had a good time poking around [RubyGems](http://) to see what's out there already both whilst deciding what to make and later when I had got more comfortable with running other cli apps and was checking some out. 
 I wasn't planning on using any extra gem dependencies in my project but I came to an impasse when I was thrown this delightful error:
+
 ```
 /Users/Gingertonic1/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/open-uri.rb:225:in `open_loop': redirection forbidden: https://valencia.berklee.edu/academic-programs/summer-programs/three-week-valencia-summer-performance-program/ -> http://valencia.berklee.edu/academic-programs/summer-programs/spain-summer-performance-program/ (RuntimeError)
 	from /Users/Gingertonic1/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/open-uri.rb:151:in `open_uri'
 ```
 
 Something was going wrong on this line of code:
+
 `program = Nokogiri::HTML(open(url))`
 
-The url I was passing to [nokogiri](http://) via [open-uri](http://) was being redirected and apprently that's not something than [open-uri](http://) can deal with by itself. After a short poke around on [StackOverflow](http://) I found out about a gem called
-[open-uri-redirections](http://) which does exactly what it says on the tin. I soon had it in my gemspec, adjusted that line of code to read:
+The url I was passing to [nokogiri](http://www.nokogiri.org/ via [open-uri](https://ruby-doc.org/stdlib-2.1.0/libdoc/open-uri/rdoc/OpenURI.html) was being redirected and apprently that's not something that open-uri can deal with by itself. After a short poke around on [StackOverflow](https://stackoverflow.com/) I found out about a gem called
+[open-uri-redirections](https://rubygems.org/gems/open_uri_redirections/versions/0.2.1) which does exactly what it says on the tin. I soon had it in my gemspec, adjusted that line of code to read:
+
 `program = Nokogiri::HTML(open(url, :allow_redirections => :all))`
 and suddenly everything was good again.
 
