@@ -159,7 +159,7 @@ and suddenly everything was good again.
 
 
 ## Posterity
-- I documented most of the process using [Silverback](https://silverbackapp.com/) screen and webcam capture software. My face when I finally successfully published, downloaded and ran my own gem is fairly self-explanatory *(see Exhibit A, right)*
+- I documented most of the process using [Silverback](https://silverbackapp.com/) screen and webcam capture software. My face when I finally successfully published, downloaded and ran my own gem is fairly self-explanatory *(see Exhibit A, below)*
 
 <iframe width="100%" src="https://www.youtube.com/embed/QHVPQejfOX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
