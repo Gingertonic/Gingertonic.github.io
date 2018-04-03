@@ -157,6 +157,14 @@ The url I was passing to [nokogiri](http://) via [open-uri](http://) was being r
 `program = Nokogiri::HTML(open(url, :allow_redirections => :all))`
 and suddenly everything was good again.
 
+<iframe width="560" height="315" align="right" src="https://www.youtube.com/embed/QHVPQejfOX0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Posterity
+- I documented most of the process using [Silverback](https://silverbackapp.com/) screen and webcam capture software. My face when I finally successfully published, downloaded and ran my own gem is fairly self-explanatory *(see Exhibit A, right)*
+<br><br><br>
+
+- *(I also managed to capture a few good 'I give up' faceplants onto my bed during the process which I will refrain from sharing.) *
+
 
 ## Grab a friend
 I am not exactly surrounded by coders. I am studying remotely and currently based in Adelaide, Australia but I move at least every 4 months for work. The last couple of years I've been moving every day during the summer and every 1-2 weeks in the winter (I was touring with the circus). Whilst this lifestyle is many varieties of fabulous, it's not quite so good for having the same people physically around you to consistently be sounding boards and give advice. I have been lucky to have had two particular 'phone-a-friend' gifts during this project:
