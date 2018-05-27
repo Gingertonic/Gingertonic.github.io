@@ -74,9 +74,9 @@ I did not use [Corneal](https://github.com/thebrianemory/corneal), mostly becasu
 <p style="text-align: justify;">I made an outline schedule for myself which I almost managed to stick to. I got a bit carried away with adding things here and there, as I expected I would, but on the whole I managed to stick to my self-imposed deadlines, as long as you ignore timezones. (as in, I'm in Australia but decided to switch to the American Somoa timezone for the purposes of this project... Fair.)</p>
 
 ## A brief tour
-<img src="https://i.imgur.com/xxhj6KK.png" alt="Divesite index" width="50%" height="574px" align="left">
+<img src="https://i.imgur.com/xxhj6KK.png" alt="Divesite index" width="50%" height="574" align="left">
 
-<img src="https://i.imgur.com/R52jXGx.png" alt="Dive log" width="50%"  height="574px" align="right">
+<img src="https://i.imgur.com/R52jXGx.png" alt="Dive log" width="50%"  height="574" align="right">
 *Left: Divesites index / Right: User show page Right: New Dive form / New Divesite form / Edit User form*
 
 
