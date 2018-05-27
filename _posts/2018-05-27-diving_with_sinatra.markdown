@@ -22,7 +22,8 @@ Grotto is a dive log for SCUBA divers. I love diving and recently I loved it eve
 <img src="https://media.giphy.com/media/11eR34PSlkrPTq/giphy.gif" alt="Lego" height= "350" align= "right">
 From back to front we have:
 * [SQL](https://www.w3schools.com/sql/sql_intro.asp)
-* [ActiveRecord ](http://guides.rubyonrails.org/active_record_basics.html)(with a cameo from [ActiveSupport](https://rubygems.org/gems/activesupport/versions/5.0.1))
+* [ActiveRecord ](http://guides.rubyonrails.org/active_record_basics.html)
+(with a cameo from [ActiveSupport](https://rubygems.org/gems/activesupport/versions/5.0.1))
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Sinatra](http://sinatrarb.com/)
 * [ERB](https://ruby-doc.org/stdlib-2.5.1/libdoc/erb/rdoc/ERB.html)
@@ -73,17 +74,17 @@ I did not use [Corneal](https://github.com/thebrianemory/corneal), mostly becasu
 <p style="text-align: justify;">I made an outline schedule for myself which I almost managed to stick to. I got a bit carried away with adding things here and there, as I expected I would, but on the whole I managed to stick to my self-imposed deadlines, as long as you ignore timezones. (as in, I'm in Australia but decided to switch to the American Somoa timezone for the purposes of this project... Fair.)</p>
 
 ## A brief tour
-<img src="https://i.imgur.com/Tl33nUS.png" alt="Latest dives" width="33.33%" height="500" align="left">
-<img src="https://i.imgur.com/xxhj6KK.png" alt="All divesites" width="33.33%" height="500" align="center">
-<img src="https://i.imgur.com/R52jXGx.png" alt="Divelog" width="33.33%" height="500" align="right">
+<img src="https://i.imgur.com/Tl33nUS.png" alt="Latest dives" width="33%" height="500" align="left">
+<img src="https://i.imgur.com/xxhj6KK.png" alt="All divesites" width="33%" height="500" align="center">
+<img src="https://i.imgur.com/R52jXGx.png" alt="Dive log" width="33%" height="500" align="right">
 
 *Above: Dives index / Divesites index / User show page*
 
 *Below: New Dive form / New Divesite form / Edit User form*
 
-<img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" width="33.33%" height="300" align="left">
-<img src="https://i.imgur.com/q780q5S.png" alt="New Divesite form" width="33.33%" height="300" align="center">
-<img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" width="33.33% "height="300" align="right">
+<img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" width="33%" height="300" align="left">
+<img src="https://i.imgur.com/q780q5S.png" alt="New Divesite form" width="33%" height="300" align="center">
+<img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" width="33%" "height="300" align="right">
 
 *And the pièce de résistance - my Dive and Divesite show pages with a big beautiful embedded map in the middle
 (the Dive show page is similar so below is only the Divesite show page as example)*
