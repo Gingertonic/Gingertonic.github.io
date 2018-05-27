@@ -74,14 +74,14 @@ I did not use [Corneal](https://github.com/thebrianemory/corneal), mostly becasu
 <p style="text-align: justify;">I made an outline schedule for myself which I almost managed to stick to. I got a bit carried away with adding things here and there, as I expected I would, but on the whole I managed to stick to my self-imposed deadlines, as long as you ignore timezones. (as in, I'm in Australia but decided to switch to the American Somoa timezone for the purposes of this project... Fair.)</p>
 
 ## A brief tour
-<img src="https://i.imgur.com/Tl33nUS.png" alt="Dives index" width="50%" align="left"><img src="https://i.imgur.com/xxhj6KK.png" alt="Divesite index" width="50%" align="left"><img src="https://i.imgur.com/R52jXGx.png" alt="Dive log"  width="50%"  align="right">
+<img src="https://i.imgur.com/Tl33nUS.png" alt="Dives index" width="30%" align="left"><img src="https://i.imgur.com/xxhj6KK.png" alt="Divesite index" width="30%" align="center"><img src="https://i.imgur.com/R52jXGx.png" alt="Dive log"  width="30%"  align="right">
 <br></br>
 *Above :: Left: Dives index // Center:: Divesites Index // Right: User show page*
 
 
 *Below::  Left: New Dive form // Centre: New Diveiste form // Right: Edit User form*
 <br></br>
-<img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" width="50%"  align="left"><img src="https://i.imgur.com/q780q5S.png" alt="New Divesite form" width="50%"  align="left"><img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" width="50%"  align="right">
+<img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" width="30%"  align="left"><img src="https://i.imgur.com/q780q5S.png" alt="New Divesite form" width="30%"  align="center"><img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" width="30%"  align="right">
 
 <br></br>
 
