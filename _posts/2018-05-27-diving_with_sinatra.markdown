@@ -75,12 +75,14 @@ I did not use [Corneal](https://github.com/thebrianemory/corneal), mostly becasu
 
 ## A brief tour
 <img src="https://i.imgur.com/xxhj6KK.png" alt="Divesite index" width="50%" align="left"><img src="https://i.imgur.com/R52jXGx.png" alt="Dive log"  width="50%"  align="right">
-*Left: Divesites index // Right: User show page*
-
 <br>
+*Above :: Left: Divesites index // Right: User show page*
 
+
+*Below::  Left: New Dive form // Right: Edit User form*
+<br>
 <img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" width="50%"  align="left"><img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" width="50%"  align="right">
-*Left: New Dive form // Right: Edit User form*
+
 
 
 *And the pièce de résistance - my Dive and Divesite show pages with a big beautiful embedded map in the middle
