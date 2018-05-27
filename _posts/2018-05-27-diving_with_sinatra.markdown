@@ -80,9 +80,9 @@ I did not use [Corneal](https://github.com/thebrianemory/corneal), mostly becasu
 
 
 
-<img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" height="348px" align="left">
+<img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" width="33%"  align="left">
 <div width="33%" style="text-align: center"> <p> *Left: New Dive form <br> Right: Edit User form*</p></div>
-<img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" height="348px" align="right">
+<img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" width="33%"  align="right">
 
 
 *And the pièce de résistance - my Dive and Divesite show pages with a big beautiful embedded map in the middle
