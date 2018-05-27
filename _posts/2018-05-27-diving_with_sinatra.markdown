@@ -74,14 +74,15 @@ I did not use [Corneal](https://github.com/thebrianemory/corneal), mostly becasu
 <p style="text-align: justify;">I made an outline schedule for myself which I almost managed to stick to. I got a bit carried away with adding things here and there, as I expected I would, but on the whole I managed to stick to my self-imposed deadlines, as long as you ignore timezones. (as in, I'm in Australia but decided to switch to the American Somoa timezone for the purposes of this project... Fair.)</p>
 
 ## A brief tour
-<img src="https://i.imgur.com/xxhj6KK.png" alt="Divesite index" width="33%" align="left">
+<img src="https://i.imgur.com/xxhj6KK.png" alt="Divesite index" width="50%" align="left">
+
+<img src="https://i.imgur.com/R52jXGx.png" alt="Dive log" width="50%"  align="right">
 *Left: Divesites index / Right: User show page Right: New Dive form / New Divesite form / Edit User form*
-<img src="https://i.imgur.com/R52jXGx.png" alt="Dive log" width="33%"  align="right">
 
 
-<img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" width="33%"  align="left">
+<img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" width="50%"  align="left">
+<img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" width="50%" " align="right">
 *Left: New Dive form / Right: Edit User form*
-<img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" width="33%" " align="right">
 
 *And the pièce de résistance - my Dive and Divesite show pages with a big beautiful embedded map in the middle
 (the Dive show page is similar so below is only the Divesite show page as example)*
