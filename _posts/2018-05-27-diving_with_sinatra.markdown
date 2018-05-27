@@ -19,8 +19,8 @@ So here it is. My First. Ever. Webapp.
 Grotto is a dive log for SCUBA divers. I love diving and recently I loved it even more because my mystery engagement journey from 50ft undersea to 1700ft above sea started in a magical underwater cave whilst diving. It was only natural that I dedicate my first web app to my engagement. Right? That's normal, no?
 
 ## What's it made from?
-<img src="https://media.giphy.com/media/11eR34PSlkrPTq/giphy.gif" alt="Lego" height= "350" align= "right">
-From back to front we have:
+
+From back to front we have: <img src="https://media.giphy.com/media/11eR34PSlkrPTq/giphy.gif" alt="Lego" height= "350" align= "right">
 * [SQL](https://www.w3schools.com/sql/sql_intro.asp)
 * [ActiveRecord ](http://guides.rubyonrails.org/active_record_basics.html)
 (with a cameo from [ActiveSupport](https://rubygems.org/gems/activesupport/versions/5.0.1))
