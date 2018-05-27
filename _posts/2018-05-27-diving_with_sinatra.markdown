@@ -1,16 +1,15 @@
 ---
 layout: post
 title:      "Diving with Sinatra"
-date:       2018-05-27 17:49:30 +0000
+date:       2018-05-27 13:49:31 -0400
 permalink:  diving_with_sinatra
 ---
 
-
+So here it is. My First. Ever. Webapp.
 <img src="https://i.imgur.com/CPXm1wk.gif" alt="menu fish gif" width="100%">
 
 
 ## Welcome to the [GROTTO](https://github.com/gingertonic/grotto)!
-So here it is. My First. Ever. Webapp.
 
 <img src="https://i.imgur.com/1iRgTqR.png" alt="Welcome to the Grotto.." width="100%">
 
