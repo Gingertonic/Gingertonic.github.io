@@ -75,14 +75,15 @@ I did not use [Corneal](https://github.com/thebrianemory/corneal), mostly becasu
 
 ## A brief tour
 <img src="https://i.imgur.com/xxhj6KK.png" alt="Divesite index" width="33%" align="left">
-<div width="33%"> <p> *Left: Divesites index / Right: User show page Right: New Dive form / New Divesite form / Edit User form*</p></div>
+<div width="33%" style="text-align: center"> <p> *Left: Divesites index <br> Right: User show page*</p></div>
 <img src="https://i.imgur.com/R52jXGx.png" alt="Dive log"  width="33%"  align="right">
 
 
 
 <img src="https://i.imgur.com/oFNHDvf.png" alt="New Dive form" height="348px" align="left">
+<div width="33%" style="text-align: center"> <p> *Left: New Dive form <br> Right: Edit User form*</p></div>
 <img src="https://i.imgur.com/JhYkqtD.png" alt="Update account details" height="348px" align="right">
-*Left: New Dive form / Right: Edit User form*
+
 
 *And the pièce de résistance - my Dive and Divesite show pages with a big beautiful embedded map in the middle
 (the Dive show page is similar so below is only the Divesite show page as example)*
