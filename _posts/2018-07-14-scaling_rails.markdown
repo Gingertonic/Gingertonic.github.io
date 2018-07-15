@@ -7,22 +7,21 @@ permalink:  scaling_rails
 
 <img src="https://media.giphy.com/media/7zleDqXp959UyA2Wv5/giphy.gif" alt="Scale This!" width="50%" style="margin-left: 25%; border: 1px dashed grey; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
 
-<table>
-<table style="width: 100%; margin-top: 20px; border: 1px dashed grey; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
+| What?   | Why?   |   How    |
+| -------- | -------- | -------- |
+| John     | Doe      | Male     |
+| Mary     | Smith    | Female   |
 
-<tr><th style="width:33.33%; text-align: center;"> What? </th> <th style="width:33.33%; text-align: center;"> Why? </th> <th style="width:33.33%; text-align: center;"> How? </th></tr>
-<tr>
-<td style="width:33.33%; text-align: center;">Scale This is a a web app where you can manage your scales practise! 
+Or without aligning the columns...
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Scale This is a a web app where you can manage your scales practise! 
 <br />
-<br />Users can view and add to a scales library, log their practise and see who's been practising recently!</td>
-<td style="width:33.33%; text-align: center;">I've been practising scales since I was 5 and I've used a million and one different ways to track my progress. Some have been better than others but none have really stuck. I wanted to try and find a web-based solution to this problem held by musicians of all ages and abilities around the world!</td>
-<td style="width:33.33%; text-align: center;">Handily enough, this seemed to fit well into the brief for our Rails Portfolio Project for the Full Stack Web Dev program at Flatiron School. 
+<br />Users can view and add to a scales library, log their practise and see who's been practising recently! | I've been practising scales since I was 5 and I've used a million and one different ways to track my progress. Some have been better than others but none have really stuck. I wanted to try and find a web-based solution to this problem held by musicians of all ages and abilities around the world! | Handily enough, this seemed to fit well into the brief for our Rails Portfolio Project for the Full Stack Web Dev program at Flatiron School. 
 <br />
-<br />Using Ruby on Rails, OmniAuth, a sprinkling of web kit audio JS and some other ingredients, I've just finished the first completed draft.</td>
-
-</table>
-</table>
-
+<br />Using Ruby on Rails, OmniAuth, a sprinkling of web kit audio JS and some other ingredients, I've just finished the first completed draft |
+| Mary | Smith | Female |
 
 
 
