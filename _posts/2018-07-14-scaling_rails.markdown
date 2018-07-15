@@ -9,6 +9,7 @@ permalink:  scaling_rails
 
 |  What?  |  Why?   |   How?  |
 | -------- | -------- | -------- |
+| Scales practise tracker | I love scales! Haha... erm...  | Ruby on Rails! |
 
 
 ### What?
