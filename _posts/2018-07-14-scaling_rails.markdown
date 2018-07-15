@@ -1,16 +1,16 @@
 ---
 layout: post
 title:      "Scaling Rails"
-date:       2018-07-15 03:35:41 +0000
+date:       2018-07-14 23:35:42 -0400
 permalink:  scaling_rails
 ---
 
 <img src="https://media.giphy.com/media/7zleDqXp959UyA2Wv5/giphy.gif" alt="Scale This!" width="50%" style="margin-left: 25%; border: 1px dashed grey; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
 
-
+<table>
 <table style="width: 100%; margin-top: 20px; border: 1px dashed grey; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
 
-<tr><th> What? </th> <th> Why? </th> <th> How? </th></tr>
+<tr><th style="width:33.33%; text-align: center;"> What? </th> <th style="width:33.33%; text-align: center;"> Why? </th> <th style="width:33.33%; text-align: center;"> How? </th></tr>
 <tr>
 <td style="width:33.33%; text-align: center;">Scale This is a a web app where you can manage your scales practise! 
 <br />
@@ -21,6 +21,9 @@ permalink:  scaling_rails
 <br />Using Ruby on Rails, OmniAuth, a sprinkling of web kit audio JS and some other ingredients, I've just finished the first completed draft.</td>
 
 </table>
+</table>
+
+
 
 
 ## Structure
@@ -29,9 +32,10 @@ We were under strict orders not to use scaffolding for this project and honestly
 Even just the regular Rails app creation gives you thing you don't necessarily need. It's quite cathartic to go through getting rid of them once you've realised they're not magical files of unknown - they're just empty files taking up real estate in your side bar.
 
 I have four models: Musician (user), Scale, Practise and Note.
+<table>
 <table style="width: 100%; margin-top: 20px; border: 1px dashed grey; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
 <tr> 
-<th>Musician </th> <th> Scale </th> <th> Practise </th> <th> Note </th>
+<th style="text-align: center;">Musician </th> <th style="text-align: center;"> Scale </th> <th style="text-align: center;"> Practise </th> <th> Note </th>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -56,6 +60,7 @@ no AR associations
 <td style="text-align: center;">controller only </td>
 <td style="text-align: center;"> no extras </td>
 </tr>
+</table>
 </table>
 
 As you can see, if I had scaffolded these, I'd have a LOT of extra stuff I didn't want. 
