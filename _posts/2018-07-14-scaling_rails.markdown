@@ -260,16 +260,16 @@ I also made use of partials for the forms and also error rendering. This was the
 #### Timeline
 All in all, this has been an 8-day project (today is day 9, paperwork day!). Compared to my last portfolio piece, I spent much more time actually coding this time. Whilst making my Sinatra web app, GROTTO, I seemed to hit a roadblock every hour or so. I still hit knowledge gaps and gaping questions whilst making Scale This, but I am now much more fluent in problem solving. My ability to find the relevant documentation and locate the info I need from it, is markedly improved.
 
- #### CSS
- I can't even recognise myself in CSS land compared to the last project. Last time I was legitimatelly scared of CSS, I didn't trust it let alone understand it. Between then and now I've been practising CSS Diner and Flexbox Froggy which have been invaluable in improving my fluency and understanding of CSS.
+#### CSS
+I can't even recognise myself in CSS land compared to the last project. Last time I was legitimatelly scared of CSS, I didn't trust it let alone understand it. Between then and now I've been practising CSS Diner and Flexbox Froggy which have been invaluable in improving my fluency and understanding of CSS.
  
- #### Staying calm and having fun
+#### Staying calm and having fun
 My improvements gave me the opportunity to be more creative and address questions of user experience, best practises and experiment, without feeling I was jut clawing my way to producing anything I could.
 
  
 <br>
- ## Future Improvements / What next
- For this specific app, there are certainly many improvements to make and fortunately I will be able to address some of these soon when we revisit this project to officially add JavaScript. 
+## Future Improvements / What next
+For this specific app, there are certainly many improvements to make and fortunately I will be able to address some of these soon when we revisit this project to officially add JavaScript. 
  
 It still amazes me how much I am learning, when I compare myself just to last week I have improved my understanding of Rails principles drastically. Comparing myself to last project, I am more fluent and thinking more efficiently. Comparing myself to the start of this year, well, in January I was patting myself on the back for getting 2+2 to equal "Mickey Mouse". 
 
