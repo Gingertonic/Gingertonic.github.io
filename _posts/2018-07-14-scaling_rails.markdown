@@ -36,7 +36,7 @@ I have four models: Musician (user), Scale, Practise and Note.
 
 |                                 Musician                             |                                          Scale                                   |                   Practise             |   Note   |
 | ------------------------------------------- | ------------------------------------------------ | -------------------------- | -------- |
-|                     `has_ma ny: practises`             |                      `has_many: practises`                     | `belongs_to: musician` | no AR  |
+|                     `has_many: practises`             |                      `has_many: practises`                     | `belongs_to: musician` | no AR  |
 | `has_many: scales, through: practises` | `has_many: musicians, through: practises` |     `belongs_to: scale`    | associations |
 |    controllers, views, even stylesheets    |                everything, even JavaScript!              |            controller only        | no extras |
 
