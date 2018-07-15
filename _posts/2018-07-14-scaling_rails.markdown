@@ -7,21 +7,21 @@ permalink:  scaling_rails
 
 <img src="https://media.giphy.com/media/7zleDqXp959UyA2Wv5/giphy.gif" alt="Scale This!" width="50%" style="margin-left: 25%; border: 1px dashed grey; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
 
-| What?   | Why?   |   How    |
+|  What?  |  Why?   |   How?  |
 | -------- | -------- | -------- |
-| John     | Doe      | Male     |
-| Mary     | Smith    | Female   |
 
-Or without aligning the columns...
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Scale This is a a web app where you can manage your scales practise! 
-<br />
-<br />Users can view and add to a scales library, log their practise and see who's been practising recently! | I've been practising scales since I was 5 and I've used a million and one different ways to track my progress. Some have been better than others but none have really stuck. I wanted to try and find a web-based solution to this problem held by musicians of all ages and abilities around the world! | Handily enough, this seemed to fit well into the brief for our Rails Portfolio Project for the Full Stack Web Dev program at Flatiron School. 
-<br />
-<br />Using Ruby on Rails, OmniAuth, a sprinkling of web kit audio JS and some other ingredients, I've just finished the first completed draft |
-| Mary | Smith | Female |
+### What?
+Scale This is a a web app where you can manage your scales practise! <br>
+Users can view and add to a scales library, log their practise and see who's been practising recently! 
+
+### Why?
+I've been practising scales since I was 5 and I've used a million and one different ways to track my progress. Some have been better than others but none have really stuck. I wanted to try and find a web-based solution to this problem held by musicians of all ages and abilities around the world! 
+
+### How?
+Handily enough, this seemed to fit well into the brief for our Rails Portfolio Project for the Full Stack Web Dev program at Flatiron School. 
+<br>
+Using Ruby on Rails, OmniAuth, a sprinkling of web kit audio JS and some other ingredients, I've just finished the first completed draft 
 
 
 
@@ -31,42 +31,19 @@ We were under strict orders not to use scaffolding for this project and honestly
 Even just the regular Rails app creation gives you thing you don't necessarily need. It's quite cathartic to go through getting rid of them once you've realised they're not magical files of unknown - they're just empty files taking up real estate in your side bar.
 
 I have four models: Musician (user), Scale, Practise and Note.
-<table>
-<table style="width: 100%; margin-top: 20px; border: 1px dashed grey; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
-<tr> 
-<th style="text-align: center;">Musician </th> <th style="text-align: center;"> Scale </th> <th style="text-align: center;"> Practise </th> <th> Note </th>
-</tr>
-<tr>
-<td style="text-align: center;">
-`has_many: practises`<br>
-`has_many: scales, through: practises`
-</td>
-<td style="text-align: center;">
-`has_many: practises`<br>
-`has_many: musicians, through: practises`
-</td>
-<td style="text-align: center;">
-`belongs_to: musician`<br>
-`belongs_to: scale`
-</td>
-<td style="text-align: center;">
-no AR associations
-</td>
-<tr>
-<tr>
-<td style="text-align: center;"> controllers, views, even stylesheets </td>
-<td style="text-align: center;"> everything, even JavaScript! </td>
-<td style="text-align: center;">controller only </td>
-<td style="text-align: center;"> no extras </td>
-</tr>
-</table>
-</table>
+
+|                                 Musician                             |                                          Scale                                   |                   Practise             |   Note   |
+| ------------------------------------------- | ------------------------------------------------ | -------------------------- | -------- |
+|                     `has_ma ny: practises`             |                      `has_many: practises`                     | `belongs_to: musician` | no AR  |
+| `has_many: scales, through: practises` | `has_many: musicians, through: practises` |     `belongs_to: scale`    | associations |
+|    controllers, views, even stylesheets    |                everything, even JavaScript!              |            controller only        | no extras |
 
 As you can see, if I had scaffolded these, I'd have a LOT of extra stuff I didn't want. 
 
 
 ## Challenges
 I faced quite a few challenges of varying complexity during this project but on Day 1 I was faced with three big ones that were core to the success of the idea:
+
 #### How the hell do I teach a computer scales?
 This was extremely important and after a few cups of tea I came up with some thoughts:
 * each note has a midi value which increments by 1 for every semitone. Quartertones are more and great but let's leave that for the future.
@@ -143,6 +120,8 @@ How do you see music notation?
 
 <img src="https://media.giphy.com/media/l3q2HJ8XvY1aCbNKg/giphy.gif" alt="music notation" align="middle" style="width: 25%; border-radius: 50%; margin-left: 20%"><img src="https://media.giphy.com/media/8lPSqcjcNjymIOS4Pm/giphy.gif" alt="music notation" align="right" style="width: 25%; border-radius: 50%; margin-right: 20%">
 
+<br>
+<br>
 <br>
 
 So I decided to draw from solfege, it's not something I use a lot in my musical thinking but it's not so unfamiliar to many people - mostly thanks to the sound of music!
