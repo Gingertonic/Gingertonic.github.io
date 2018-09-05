@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Any jQueries on how to Scale This so far?"
-date:       2018-09-05 11:51:47 +0000
+date:       2018-09-05 07:51:48 -0400
 permalink:  any_jqueries_on_how_to_scale_this_so_far
 ---
 
@@ -206,6 +206,8 @@ Musician.prototype.totalPractises = function(){
 
 on `gingertonic` and hopefully give us back a very high number because I practise a lot... heh....
 
+
+
 ## Round-up
 Initially it was a bit of a rude shock to step out of Ruby-land and back into Javascript. It had been a good 7 months since I last really used Javascript for much and it felt a bit like trying to write an essay in a subject you know very well, but in a foreign language that you used to speak a bit of but not much you've basically forgotten most of it anyway. 
 
@@ -214,6 +216,7 @@ I must say, I do think jQuery is pretty damn cool and I also like some of the ES
 Every time I complete a project, I look back on the previous one and think how incredibly clunky it looks in comparison to my new one. I can only assume that moving into React/Redux, I will experience the same cycle of WTF WHY? => Eh, I get it but... why? => WHY DID I NOW KNOW THIS BEFORE? I SHALL NEVER LOOK BACK!
 
 And thus I embark on what I hope will be my final month before graduation from Flatiron, but the first month of the rest of a lifetime of coding and learning!
+
 
 
 
