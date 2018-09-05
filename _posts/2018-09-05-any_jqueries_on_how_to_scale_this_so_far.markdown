@@ -93,8 +93,8 @@ $(el).fadeIn();
 
 Pretty nice, right? It's not always the best tool for the job as, whilst it's very popular, it's not supported *everywhere* and being an 'add-on' to JS, it can slow performance a bit. Not so much that this bothers me in the slightest on this app. Some people seem to get very snobby about it and get their knickers in a twist about jQuery. I think that's  kinda funny.
 
-<img src="https://i.imgur.com/40l3evg.png)" alt="I heard you like Javascripts" height="150px" style="margin-left: 10%;">
-<img src="https://i.imgur.com/R7jlmmO.jpg" alt="tell me more" height="150px" style="margin-right: 10%;">
+<img src="https://i.imgur.com/40l3evg.png)" alt="I heard you like Javascripts" width="50%" style="margin-left: 15%;">
+<img src="https://i.imgur.com/R7jlmmO.jpg" alt="tell me more" width="50%" height="150px" style="margin-right: 15%;">
 
 
 ### Vanilla JS
@@ -168,7 +168,7 @@ function Scale(attr){
 where it will create a new Scale object and assign it to the variable `cool_scale`.
 
 
-<img src="https://media.giphy.com/media/l0HlDtKDqfGGQtwic/giphy.gif" alt="There's more..." height="150px" style="margin-left: 5%; border-top-right-radius: 20%; border-bottom-left-radius: 20%;"><img src="https://media.giphy.com/media/l0Exdm9UbTHAFcJi0/giphy.gif" alt="There's more?" height="150px" style="margin-right: 5%; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
+<img src="https://media.giphy.com/media/l0HlDtKDqfGGQtwic/giphy.gif" alt="There's more..." width="50%" style="margin-left: 5%; border-top-right-radius: 20%; border-bottom-left-radius: 20%;"><img src="https://media.giphy.com/media/l0Exdm9UbTHAFcJi0/giphy.gif" alt="There's more?" width="50%" style="margin-right: 5%; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
 
 
 
