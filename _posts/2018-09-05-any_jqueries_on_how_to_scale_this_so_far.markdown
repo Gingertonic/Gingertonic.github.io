@@ -153,16 +153,18 @@ eg:
 I can pass this info via `const coolScale = new Scale(attributes)` to the following Class constructor function:
 
 ```
-function Scale(attr){
-  this.id = attr.id
-  this.name = attr.name;
-  this.scaleType = attr.scale_type;
-  this.origin = attr.origin;
-  this.melodyRules = attr.melody_rules;
-  this.private = attr.private;
-  this.pattern = attr.pattern;
-  this.aka = attr.aka;
-  this.createdBy = attr.created_by;
+class Scale{
+  constructor(attr){
+    this.id = attr.id;
+    this.name = attr.name;
+    this.scaleType = attr.scale_type;
+    this.origin = attr.origin;
+    this.melodyRules = attr.melody_rules;
+    this.private = attr.private;
+    this.pattern = attr.pattern;
+    this.aka = attr.aka;
+    this.createdBy = attr.created_by;
+  }
 }
 ```
 
@@ -173,20 +175,23 @@ where it will create a new Scale object and assign it to the variable `cool_scal
 
 
 
-Without you knowing, I actually already created a bunch of methods that Scales can do like these:
+Without you knowing, I actually already created a bunch of functions that Scales can do like these:
 
 ```
-Scale.prototype.patternFrom = function(root){
-  patternFrom = [root];
-  for (let i=0; i < this.pattern.length; i++) {
-       diff = parseInt(this.pattern.charAt(i));
-       patternFrom.push(patternFrom[patternFrom.length - 1] + diff);
-     }
-  return patternFrom;
-}
+class Scale{
 
-Scale.prototype.scaleTypeSlug = function(){
-  return this.scaleType.replace(/\W/g, "_");
+  scaleTypeSlug(){
+    return this.scaleType.replace(/\W/g, "_");
+  }
+
+  patternFrom(root){
+    patternFrom = [root];
+    [...this.pattern].forEach(function(diff){
+      patternFrom.push(patternFrom[patternFrom.length - 1] + parseInt(diff))
+    });
+    return patternFrom;
+  }
+
 }
 ```
 
@@ -199,11 +204,11 @@ So newUser doesn't have access to the Scale functions above - `newUser.patternFr
 `newUser.totalPractises()` will call:
 
 ```
-Musician.prototype.totalPractises = function(){
-  let totalExperience = 0
-  this.practises.forEach(practise => totalExperience += practise.experience)
-  return totalExperience
-}
+  totalPractises(){
+    let totalExperience = 0
+    this.practises.forEach(practise => totalExperience += practise.experience)
+    return totalExperience
+  }
 ```
 
 on `gingertonic` and hopefully give us back a very high number because I practise a lot... heh....
