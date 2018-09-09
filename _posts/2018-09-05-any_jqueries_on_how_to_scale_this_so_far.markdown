@@ -111,7 +111,7 @@ Whatever your reason for wanting to get the same data to different places, it wo
 So we can use an API instead. With your API in place, you can make a request to it and receive back only data. That means  no extra baggage like HTML or CSS. Just plain old data with which you can do whatever you desire once received. You don't need to dig through all the extra stuff just to find the name of the current number 1 song in Chile. Instead you can just make a request to `https://api.number1songs.com/chile` and receive back something like `{ date: 20180805, title: "Vaina Loca", artist: "Manuel Turizo & Ozuna" }`. Too easy.
 
 ### Handlebars
-[Handlebars](http://handlebarsjs.com/ is ridiculously useful and at times ridiculously frustrating library for making templates. At first I thought it was just me but I've since found that it has something of a a reputation among the Flatiron community for being the source of many a lost hour wondering WHY? We forgive it for all this because it gives you handlebar mustaches all over your code.
+[Handlebars](http://handlebarsjs.com/) is ridiculously useful and at times ridiculously frustrating library for making templates. At first I thought it was just me but I've since found that it has something of a a reputation among the Flatiron community for being the source of many a lost hour wondering WHY? We forgive it for all this because it gives you handlebar mustaches all over your code.
 
 
 <img src="https://media.giphy.com/media/11UzbTpybT6Ypy/giphy.gif" alt="Mustache approved" width="50%" style="margin-left: 25%; border-top-left-radius: 20%; border-bottom-right-radius: 20%;">
