@@ -12,7 +12,7 @@ Here I am, a whole week later than I had hoped, with a fully functioning jQuery-
 
 And why, pray tell us Beth, are you a week later than anticipated? (incidentally, that is the same question my gym trainer asked me on Monday...) Well partly because I was waking up through the night barely breathing and leaving snot-trails around the house for a week (TMI? You're welcome.) Partly because I'm living in a very popular tourist town and visitors are relatively plentiful.
 
-But mostly... mostly because THIS STUFF IS HARD! and SOMETIMES WEIRD! and the previous couple of weeks I've been feeling somewhat intellectually plateaued. 
+<p style="font-size: 0.5em"> But mostly... mostly because THIS STUFF IS HARD! and SOMETIMES WEIRD! and the previous couple of weeks I've been feeling somewhat intellectually plateaued. </p>
 
 I've come to realise that a good tidy up and refactor of your work is a great way to revise what you did, gives you a chance to look at things and say 'what sort of amateur did this!' (and realise it was you, probably yesterday, so give yourself a pat on the back for coming so far overnight but also maybe hold off a bit on the high and mighty, thanks)
 
